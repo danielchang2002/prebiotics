@@ -1,2 +1,5 @@
 *.fastq
 *.gz
+
+metaphlan2
+metaphlan2/*
